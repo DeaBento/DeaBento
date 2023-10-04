@@ -1,4 +1,4 @@
-### Olá, eu sou a Andréa Bento  🙋🏽‍♀️
+### Olá, eu sou a Andréa Bento 🙋🏽‍♀️
 
 ![favicon-32x32](https://github.com/DeaBento/DeaBento/assets/136864556/47ddbc44-c82c-4927-b524-88b9738f5fde)
 
@@ -17,4 +17,8 @@
     <img align= "center" alt= "html5" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br>
 
-Aluna do Curso Elas na Tech
+![WhatsApp Image 2023-10-04 at 09 14 14](https://github.com/DeaBento/DeaBento/assets/136864556/b5cc590a-6829-43b1-9c67-a23ca956d705)
+
+
+
+
