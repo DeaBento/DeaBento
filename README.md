@@ -1,4 +1,7 @@
-### Olá, eu sou a Andréa Bento 🙋🏽‍♀️
+### Olá, eu sou a Andréa Bento  🙋🏽‍♀️
+
+![favicon-32x32](https://github.com/DeaBento/DeaBento/assets/136864556/47ddbc44-c82c-4927-b524-88b9738f5fde)
+
 ![DeaBento GitHub stats](https://github-readme-stats.vercel.app/api?username=DeaBento&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeaBento&hide_progress=true)
