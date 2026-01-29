@@ -1,12 +1,9 @@
 ### Olá, eu sou a Andréa Bento 🙋🏽‍♀️
 
-![favicon-32x32](https://github.com/DeaBento/DeaBento/assets/136864556/47ddbc44-c82c-4927-b524-88b9738f5fde)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![DeaBento GitHub stats](https://github-readme-stats.vercel.app/api?username=DeaBento&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeaBento&hide_progress=true)
-
-[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://replit.com/@DeaBento)
 
 ## Tecnologias:
 
