@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente estudando mais!
 
+![Banner Web Summit](![20250430_130937](https://github.com/user-attachments/assets/05d078c8-dc34-4354-94ca-59d017c35013)
+)
+
 ## Tecnologias:
 
 <div style="display: inline_block"><br>
