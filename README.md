@@ -2,7 +2,10 @@
 
 - 🔭 Atualmente estudando mais!
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d9ada760-c429-4439-a20e-fc03e8d26d0b" width="100%">
+  <p><i>Registros da minha participação no Web Summit Rio 2025 🚀</i></p>
+</div>
 
 ## Tecnologias:
 
